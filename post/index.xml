@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Ertugrul</title>
+    <link>https://ertugruldmr.github.io/ertugrul_portfolio_website/post/</link>
+    <description>Recent content in Portfolio on Ertugrul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ertugruldmr.github.io/ertugrul_portfolio_website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Portfolio Projects (30&#43;)</title>
+      <link>https://ertugruldmr.github.io/ertugrul_portfolio_website/post/datascienceprojects/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://ertugruldmr.github.io/ertugrul_portfolio_website/post/datascienceprojects/</guid>
+      <description>I developed 30+ machine and deep learning projects which served as live web demo app on my huggingface account to prove my skills about data science.
+Source codes and detailed information about projects can also be found on my github account.
+NOTE THAT: if the demo page raises a 404 error, you can simply refresh the page to reset the project server. If refreshing the page does not work, you can also try the alternative demo app served on Google Colab.</description>
+    </item>
+    
+  </channel>
+</rss>
